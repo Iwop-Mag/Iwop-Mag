@@ -1,9 +1,13 @@
-#Hello! I'm Paul
+# Hello! I'm Paul
 I am an undergraduate student pursuing a Bachelor of Science in Electronics Engineering at the Technological University of the Philippines - Manila.
 
-My interests are Robotics, Artificial Intelligence, and Automation. However, I also do full-stack.
+My interests are Robotics, Artificial Intelligence, and Automation. However, I also do full-stack development.
 
-I like competing and doing research. I also like doing volunteerism such as teaching, outreach, and Red Cross. 
+I like competing and doing research. I also like doing volunteer work such as teaching, outreach, and Red Cross.
+
+A fun fact about me is that I started a business focusing on software work and web development named PrimePath (will be changing the name rushed lang talaga bwahaha).
+
+The website: https://primepath.digital/
 
 
 📫 How to reach me:
