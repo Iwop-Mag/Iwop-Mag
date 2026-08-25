@@ -1,7 +1,7 @@
 # Hello! I'm Paul
 I am an undergraduate student pursuing a Bachelor of Science in Electronics Engineering at the Technological University of the Philippines - Manila.
 
-My interests are Robotics, Artificial Intelligence, and Automation. However, I also do full-stack development.
+My interests are Robotics, Artificial Intelligence (except LLMs), and Automation. However, I also do full-stack development.
 
 I like competing and doing research. I also like doing volunteer work such as teaching, outreach, and Red Cross.
 
