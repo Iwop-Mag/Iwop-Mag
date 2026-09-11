@@ -17,6 +17,16 @@ Email: paul.magalong0@gmail.com
 
 LinkedIn: [Pol's LinkedIn](https://www.linkedin.com/in/paul-magalong-7b7106235/)
 
+#
+
+## Current Projects
+
+🪪 Open Source TUP-id Attendance QR Scanner
+🏭 BEAM Biopod: Innovated Anaerobic Digester
+🔗 Website E-commerce
+
+### To be started
+🛜 Raspberry Pi 5 Media Server
 <!--
 **Iwop-Mag/Iwop-Mag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
