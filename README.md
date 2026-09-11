@@ -20,7 +20,6 @@ LinkedIn: [Pol's LinkedIn](https://www.linkedin.com/in/paul-magalong-7b7106235/)
 #
 
 ## Current Projects
-
 🪪 Open Source TUP-id Attendance QR Scanner
 🏭 BEAM Biopod: Innovated Anaerobic Digester
 🔗 Website E-commerce
