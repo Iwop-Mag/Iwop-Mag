@@ -7,7 +7,7 @@ I like competing and doing research. I also like doing volunteer work such as te
 
 A fun fact about me is that I started a business focusing on software work and web development named PrimePath (will be changing the name rushed lang talaga bwahaha).
 
-The website: https://primepath.digital/
+The website: [PrimePath Website Design and Development](https://primepath.digital)
 
 #
 
@@ -28,17 +28,28 @@ LinkedIn: [Pol's LinkedIn](https://www.linkedin.com/in/paul-magalong-7b7106235/)
 
 ### To be started
 🛜 Raspberry Pi 5 Media Server
-<!--
-**Iwop-Mag/Iwop-Mag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <p align="center"><i>My Skills</i></p>
+
+<p align="center">Languages</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,html,css,js,cpp,python,php,java" />
+    </a>
+</p>
+
+<p align="center">Tools</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,androidstudio,cloudflare,docker,latex,raspberrypi,tensorflow,opencv" />
+    </a>
+</p>
+
+<p align="center">Graphic Design</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=blender,ps,ai,ae,pr,figma" />
+    </a>
+</p>
