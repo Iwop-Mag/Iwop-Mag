@@ -13,7 +13,7 @@ The website: [PrimePath Website Design and Development](https://primepath.digita
 
 📫 How to reach me:
 
-Email: paul.magalong0@gmail.com
+Email: paulcharles.magalong@tup.edu.ph
 
 LinkedIn: [Pol's LinkedIn](https://www.linkedin.com/in/paul-magalong-7b7106235/)
 
